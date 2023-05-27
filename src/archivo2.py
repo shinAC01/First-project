@@ -1,1 +1,2 @@
 print("AAAA")
+print("BBBB")
